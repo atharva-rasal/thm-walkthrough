@@ -1,4 +1,4 @@
-OWASP TOP10-2021 walkthrough
+TryHackMe walkthrough
 
-1. Broken Access Control - 
-2. Cryptographic failure - 
+1. OWASP TOP10-2021 -> 
+2. 
